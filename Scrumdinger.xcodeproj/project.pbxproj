@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E65C7DC228D9DA48001F604D /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E65C7DC128D9DA48001F604D /* DetailView.swift */; };
 		E667F2D428D5C739006EE9E6 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = E667F2D328D5C739006EE9E6 /* Theme.swift */; };
 		E667F2D628D5C8D5006EE9E6 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E667F2D528D5C8D5006EE9E6 /* DailyScrum.swift */; };
 		E667F2D828D5D0C4006EE9E6 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E667F2D728D5D0C4006EE9E6 /* CardView.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E65C7DC128D9DA48001F604D /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		E667F2D328D5C739006EE9E6 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		E667F2D528D5C8D5006EE9E6 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		E667F2D728D5D0C4006EE9E6 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
@@ -47,6 +49,7 @@
 			children = (
 				E667F2D328D5C739006EE9E6 /* Theme.swift */,
 				E667F2D528D5C8D5006EE9E6 /* DailyScrum.swift */,
+				E65C7DC128D9DA48001F604D /* DetailView.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E667F2D628D5C8D5006EE9E6 /* DailyScrum.swift in Sources */,
+				E65C7DC228D9DA48001F604D /* DetailView.swift in Sources */,
 				E6C520AB28D84E7500C16959 /* TrailingIconLabelStyle.swift in Sources */,
 				E667F2D428D5C739006EE9E6 /* Theme.swift in Sources */,
 				E6951F1528D9C1CE00EE31BE /* ScrumsView.swift in Sources */,
