@@ -55,7 +55,6 @@
 			children = (
 				E667F2D328D5C739006EE9E6 /* Theme.swift */,
 				E667F2D528D5C8D5006EE9E6 /* DailyScrum.swift */,
-				E65C7DC128D9DA48001F604D /* DetailView.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -90,6 +89,7 @@
 				E65C7DC728DB1B1D001F604D /* DetailEditView.swift */,
 				E654375F28E1891200112954 /* ThemeView.swift */,
 				E654376128E18AE600112954 /* ThemePicker.swift */,
+				E65C7DC128D9DA48001F604D /* DetailView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
