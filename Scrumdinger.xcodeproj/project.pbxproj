@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E654376028E1891200112954 /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E654375F28E1891200112954 /* ThemeView.swift */; };
+		E654376228E18AE600112954 /* ThemePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = E654376128E18AE600112954 /* ThemePicker.swift */; };
 		E65C7DC228D9DA48001F604D /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E65C7DC128D9DA48001F604D /* DetailView.swift */; };
 		E65C7DC828DB1B1D001F604D /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E65C7DC728DB1B1D001F604D /* DetailEditView.swift */; };
 		E667F2D428D5C739006EE9E6 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = E667F2D328D5C739006EE9E6 /* Theme.swift */; };
@@ -23,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		E654375F28E1891200112954 /* ThemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeView.swift; sourceTree = "<group>"; };
+		E654376128E18AE600112954 /* ThemePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemePicker.swift; sourceTree = "<group>"; };
 		E65C7DC128D9DA48001F604D /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		E65C7DC728DB1B1D001F604D /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 		E667F2D328D5C739006EE9E6 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 				E6951F1428D9C1CE00EE31BE /* ScrumsView.swift */,
 				E65C7DC728DB1B1D001F604D /* DetailEditView.swift */,
 				E654375F28E1891200112954 /* ThemeView.swift */,
+				E654376128E18AE600112954 /* ThemePicker.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E654376228E18AE600112954 /* ThemePicker.swift in Sources */,
 				E667F2D628D5C8D5006EE9E6 /* DailyScrum.swift in Sources */,
 				E65C7DC228D9DA48001F604D /* DetailView.swift in Sources */,
 				E65C7DC828DB1B1D001F604D /* DetailEditView.swift in Sources */,
